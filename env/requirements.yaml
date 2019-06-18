@@ -13,6 +13,9 @@ dependencies:
 - name: ice-demo-ms
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: jenkinsx-demo-ms
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: kotlin-jx-ms
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
